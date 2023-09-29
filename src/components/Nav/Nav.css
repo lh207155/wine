@@ -1,0 +1,19 @@
+.navWrapper {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  border: solid 1px black;
+  line-height: 80px;
+}
+.menuWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+}
+.menuItem {
+  width: 13%;
+  font-family: "Marcellus";
+  font-size: 14px;
+  color: #191919;
+  letter-spacing: 1.4px;
+}
